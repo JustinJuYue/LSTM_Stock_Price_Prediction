@@ -2,6 +2,8 @@
 
 This project uses a **Long Short-Term Memory (LSTM)** neural network to predict **minute-level stock prices** and generate **trading signals**. It features a unique **"reinforcement study"** mechanism that automatically retrains the model with different learning rates to improve performance if the initial model underperforms.
 
+![Sample_Plot](Assets/Example_Plot.jpg)
+
 Additionally, the repository includes a comprehensive **analysis toolkit** (`setup.py`) with powerful utility functions for advanced stock data visualization and insights.
 
 ---
