@@ -24,7 +24,7 @@ from tensorflow.keras.layers import LSTM, Dropout, Dense
 from tensorflow.keras.callbacks import EarlyStopping
 import warnings
 
-# Optional: import additional settings from setup.py if available.
+# Optional: import additional settings from setup.py if available. 
 try:
     from setup import *
 except ImportError:
